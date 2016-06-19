@@ -1,0 +1,14 @@
+layout_spectrum: 0.09442621632479131
+typography_spectrum: 0.6088469554670155
+color:
+  brandStrength: 0.4281720162834972
+  lightness: 0.9215346069540828
+  saturation: 0.1963803395628929
+  rhythmicContrast: 0.7209090176038444
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: dietonakeychain
